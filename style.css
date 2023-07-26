@@ -28,6 +28,10 @@ body {
     src: url(./assets/stone\ orgonite.woff);
 }
 
+section {
+    padding: 5%;
+}
+
 /*Front page*/
 
 h2 {
