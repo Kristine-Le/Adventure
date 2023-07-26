@@ -171,6 +171,8 @@ nav svg {
 
 .about {
     color: var(--secondary-color);
+    display: flex;
+    flex-direction: column;
   }
   .about h2 {
     font-family: "argonite", sans-serif;
